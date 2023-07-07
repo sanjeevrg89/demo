@@ -1,0 +1,6 @@
+apiVersion: apps/1
+kind: Deployment
+metadata:
+  name: abc
+spec:
+  
